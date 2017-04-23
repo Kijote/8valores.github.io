@@ -1,6 +1,6 @@
 questions = [
    {
-      "question": "Oppression by corporations is as much, if not more, of a concern than oppression by governments.",
+      "question": "La opresión por las empresas es tanto o mas preocupante que la opresión por los gobiernos.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -9,7 +9,7 @@ questions = [
       }
    },
    {
-      "question": "It is necessary for the government to intervene in the economy to protect citizens.",
+      "question": "Es necesario que el gobierno intervenga en la economía para proteger a los ciudadanos.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -18,7 +18,7 @@ questions = [
       }
    },
    {
-      "question": "The freer the markets, the freer the people.",
+      "question": "Mientras más libres los mercados, más libre la gente.",
       "effect": {
          "econ": -10,
          "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
       }
    },
    {
-      "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+      "question": "La investigación financiada por el Estado es más beneficiosa para la gente que dejarla al mercado.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -36,7 +36,7 @@ questions = [
       }
    },
    {
-      "question": "From each according to his ability, to each according to his needs.",
+      "question": "De cada cual según sus capacidades, a cada cual según sus necesidades.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -45,7 +45,7 @@ questions = [
       }
    },
    {
-      "question": "It would be best if social programs were abolished in favor of private charity.",
+      "question": "Sería mejor si los programas sociales fueran abolidos en favor de la caridad privada.",
       "effect": {
          "econ": -10,
          "dipl": 0,
@@ -54,7 +54,7 @@ questions = [
       }
    },
    {
-      "question": "Taxes should be increased on the rich to provide for the poor.",
+      "question": "Los impuestos debieran ser aumentados a los ricos para darle a los pobres.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -63,7 +63,7 @@ questions = [
       }
    },
    {
-      "question": "Inheritance and capital gains are legitimate forms of wealth.",
+      "question": "La herencia y las ganancias de capital son legitimas formas de riqueza.",
       "effect": {
          "econ": -10,
          "dipl": 0,
@@ -72,7 +72,7 @@ questions = [
       }
    },
    {
-      "question": "Public utilities like roads and electricity should be publicly owned.",
+      "question": "Servicios públicos como los caminos y la electricidad debieran ser de propiedad estatal.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
       }
    },
    {
-      "question": "Those with a greater ability to pay should receive better healthcare.",
+      "question": "Aquellos con una mayor habilidad para pagar debieran recibir mejores cuidados de salud.",
       "effect": {
          "econ": -10,
          "dipl": 0,
@@ -90,7 +90,7 @@ questions = [
       }
    },
    {
-      "question": "Adequate education is a right of all people.",
+      "question": "Una educación adecuada es un derecho de todas las personas.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -99,7 +99,7 @@ questions = [
       }
    },
    {
-      "question": "The means of production should belong to the workers who use them.",
+      "question": "Los medios de producción debieran pertenecer a los trabajadores que los usan.",
       "effect": {
          "econ": -10,
          "dipl": 0,
@@ -108,7 +108,7 @@ questions = [
       }
    },
    {
-      "question": "The United Nations should be abolished.",
+      "question": "Las Naciones Unidas debieran ser abolidas.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -117,7 +117,7 @@ questions = [
       }
    },
    {
-      "question": "Military intervention is often necessary to protect the nation.",
+      "question": "La intervención militar es a menudo necesaria para proteger a la nación.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -126,7 +126,7 @@ questions = [
       }
    },
    {
-      "question": "It is more important to retain peaceful relations than to further our strength.",
+      "question": "Es más importante el mantener relaciones pacificas que aumentar nuestra fuerza.",
       "effect": {
          "econ": 0,
          "dipl": 10,
@@ -135,7 +135,7 @@ questions = [
       }
    },
    {
-      "question": "Wars do not need to be justified to other countries.",
+      "question": "Las guerras no necesitan ser justificadas ante otros países.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -144,7 +144,7 @@ questions = [
       }
    },
    {
-      "question": "Military spending is a waste of money.",
+      "question": "El gasto militar es un desperdicio de dinero.",
       "effect": {
          "econ": 0,
          "dipl": 10,
@@ -153,7 +153,7 @@ questions = [
       }
    },
    {
-      "question": "International aid is a waste of money.",
+      "question": "La ayuda internacional es un desperdicio de dinero.",
       "effect": {
          "econ": -5,
          "dipl": 10,
@@ -162,7 +162,7 @@ questions = [
       }
    },
    {
-      "question": "My nation is the best in the world.",
+      "question": "Mi nación es la mejor en el mundo.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -171,7 +171,7 @@ questions = [
       }
    },
    {
-      "question": "Research should be conducted on an international scale.",
+      "question": "La investigación científica debiera ser conducida a una escala internacional.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -180,7 +180,7 @@ questions = [
       }
    },
    {
-      "question": "Governments should be accountable to the international community.",
+      "question": "Los gobiernos debieran rendir cuentas a la comunidad internacional.",
       "effect": {
          "econ": 0,
          "dipl": 10,
@@ -189,7 +189,7 @@ questions = [
       }
    },
    {
-      "question": "Even when protesting an authoritarian government, violence is not acceptable.",
+      "question": "Incluso cuando se protesta por un gobierno autoritario, la violencia no es aceptable.",
       "effect": {
          "econ": 0,
          "dipl": 10,
@@ -198,7 +198,7 @@ questions = [
       }
    },
    {
-      "question": "My religion should be spread by force if necessary.",
+      "question": "Mi religión debiera ser difundida por la fuerza si fuera necesario.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -207,7 +207,7 @@ questions = [
       }
    },
    {
-      "question": "My political ideology should be spread by force if necessary.",
+      "question": "Mi ideología política debiera ser difundida por la fuerza si fuera necesario.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -216,7 +216,7 @@ questions = [
       }
    },
    {
-      "question": "Law and order should be maintained at all costs.",
+      "question": "La ley y el orden debieran ser mantenidos a cualquier costo.",
       "effect": {
          "econ": 0,
          "dipl": -5,
@@ -225,7 +225,7 @@ questions = [
       }
    },
    {
-      "question": "Political elites are necessary, as the general populace makes bad decisions.",
+      "question": "Las élites políticas son necesarias, ya que la población general toma malas decisiones.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -234,7 +234,7 @@ questions = [
       }
    },
    {
-      "question": "A victimless crime, such as drug use, should not be a crime at all.",
+      "question": "Un crimen sin victimas, como el uso de drogas, no debiera ser un crimen en lo absoluto.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -243,7 +243,7 @@ questions = [
       }
    },
    {
-      "question": "Terrorism is a major threat, and some civil liberties must be sacrificed to prevent it.",
+      "question": "El terrorismo es una gran amenaza, y algunas libertades civiles deben ser sacrificadas para prevenirlo.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -252,7 +252,7 @@ questions = [
       }
    },
    {
-      "question": "Government surveillance is necessary in the modern world.",
+      "question": "La vigilancia del gobierno es necesaria en el mundo moderno.",
       "effect": {
          "econ": 0,
          "dipl": 0,
