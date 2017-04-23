@@ -16,9 +16,9 @@
 <p class="question" id="question-text"></p>
 <button class="button" onclick="next_question( 1.0)" style="background-color: #1b5e20;">Totalmente de acuerdo</button> <br>
 <button class="button" onclick="next_question( 0.5)" style="background-color: #4caf50;">De acuerdo</button> <br>
-<button class="button" onclick="next_question( 0.0)" style="background-color: #bbbbbb;">Neutral/No estoy seguro</button> <br>
+<button class="button" onclick="next_question( 0.0)" style="background-color: #bbbbbb;">Ni de acuerdo ni en desacuerdo</button> <br>
 <button class="button" onclick="next_question(-0.5)" style="background-color: #f44336;">En desacuerdo</button> <br>
-<button class="button" onclick="next_question(-1.0)" style="background-color: #b71c1c;">Muy en desacuerdo</button> <br>
+<button class="button" onclick="next_question(-1.0)" style="background-color: #b71c1c;">Totalmente en desacuerdo</button> <br>
 
 <script>
     var max_econ, max_dipl, max_govt, max_scty; // Max possible scores
@@ -27,7 +27,7 @@
     econ = dipl = govt = scty = 0
     var qn = 0; // Question number
     document.getElementById("question-text").innerHTML=questions[qn].question
-    document.getElementById("question-number").innerHTML="Question " + (qn + 1) + " of " + (questions.length)
+    document.getElementById("question-number").innerHTML="Pregunta " + (qn + 1) + " de " + (questions.length)
     for (var i = 0; i < questions.length; i++) {
         max_econ += Math.abs(questions[i].effect.econ)
         max_dipl += Math.abs(questions[i].effect.dipl)
@@ -42,7 +42,7 @@
         qn++
         if (qn < questions.length) {
             document.getElementById("question-text").innerHTML=questions[qn].question
-            document.getElementById("question-number").innerHTML="Question " + (qn + 1) + " of " + (questions.length)
+            document.getElementById("question-number").innerHTML="Pregunta " + (qn + 1) + " de " + (questions.length)
         } else {
             results()
         }
