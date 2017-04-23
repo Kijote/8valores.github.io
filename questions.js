@@ -1,6 +1,6 @@
 questions = [
    {
-      "question": "La opresión por las empresas es tanto o mas preocupante que la opresión por los gobiernos.",
+      "question": "La opresión por parte de las empresas es tanto o mas preocupante que la opresión por parte de los gobiernos.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -54,7 +54,7 @@ questions = [
       }
    },
    {
-      "question": "Los impuestos debieran ser aumentados a los ricos para darle a los pobres.",
+      "question": "Los impuestos deberían ser aumentados a los ricos para darle a los pobres.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -72,7 +72,7 @@ questions = [
       }
    },
    {
-      "question": "Servicios públicos como los caminos y la electricidad debieran ser de propiedad estatal.",
+      "question": "Servicios públicos como los caminos y la electricidad deberían ser de propiedad estatal.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
       }
    },
    {
-      "question": "Aquellos con una mayor habilidad para pagar debieran recibir mejores cuidados de salud.",
+      "question": "Aquellos con una mayor habilidad para pagar deberían recibir mejores cuidados de salud.",
       "effect": {
          "econ": -10,
          "dipl": 0,
@@ -99,7 +99,7 @@ questions = [
       }
    },
    {
-      "question": "Los medios de producción debieran pertenecer a los trabajadores que los usan.",
+      "question": "Los medios de producción deberían pertenecer a los trabajadores que los usan.",
       "effect": {
          "econ": -10,
          "dipl": 0,
@@ -108,7 +108,7 @@ questions = [
       }
    },
    {
-      "question": "Las Naciones Unidas debieran ser abolidas.",
+      "question": "Las Naciones Unidas deberían ser abolidas.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -171,7 +171,7 @@ questions = [
       }
    },
    {
-      "question": "La investigación científica debiera ser conducida a una escala internacional.",
+      "question": "La investigación científica debería ser conducida a una escala internacional.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -180,7 +180,7 @@ questions = [
       }
    },
    {
-      "question": "Los gobiernos debieran rendir cuentas a la comunidad internacional.",
+      "question": "Los gobiernos deberían rendir cuentas a la comunidad internacional.",
       "effect": {
          "econ": 0,
          "dipl": 10,
@@ -198,7 +198,7 @@ questions = [
       }
    },
    {
-      "question": "Mi religión debiera ser difundida por la fuerza si fuera necesario.",
+      "question": "Mi religión debería ser difundida por la fuerza si fuera necesario.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -207,7 +207,7 @@ questions = [
       }
    },
    {
-      "question": "Mi ideología política debiera ser difundida por la fuerza si fuera necesario.",
+      "question": "Mi ideología política debería ser difundida por la fuerza si fuera necesario.",
       "effect": {
          "econ": 0,
          "dipl": -10,
@@ -216,7 +216,7 @@ questions = [
       }
    },
    {
-      "question": "La ley y el orden debieran ser mantenidos a cualquier costo.",
+      "question": "La ley y el orden deberían ser mantenidos a cualquier costo.",
       "effect": {
          "econ": 0,
          "dipl": -5,
@@ -234,7 +234,7 @@ questions = [
       }
    },
    {
-      "question": "Un crimen sin victimas, como el uso de drogas, no debiera ser un crimen en lo absoluto.",
+      "question": "Un crimen sin victimas, como el uso de drogas, no debería ser un crimen en lo absoluto.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -261,7 +261,7 @@ questions = [
       }
    },
    {
-      "question": "The very existence of the state is a threat to our liberty.",
+      "question": "La existencia misma del Estado es una amenaza a nuestra libertad.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -270,7 +270,7 @@ questions = [
       }
    },
    {
-      "question": "Regardless of political opinions, it is important to side with your country.",
+      "question": "Independiente de opiniones políticas, es importante ponerte del lado de tu país.",
       "effect": {
          "econ": 0,
          "dipl": -5,
@@ -279,7 +279,7 @@ questions = [
       }
    },
    {
-      "question": "No authority should be left unquestioned.",
+      "question": "Ninguna autoridad debería ser considerada incuestionable.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -288,7 +288,7 @@ questions = [
       }
    },
    {
-      "question": "A strongly hierarchical state is most efficient.",
+      "question": "Un Estado fuertemente jerárquico es más eficiente.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -297,7 +297,7 @@ questions = [
       }
    },
    {
-      "question": "It is important that the government follows the majority opinion, even if it is wrong.",
+      "question": "Es importante que el gobierno siga la opinión de la mayoría, incluso si es incorrecta.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -306,7 +306,7 @@ questions = [
       }
    },
    {
-      "question": "The stronger the leadership, the better.",
+      "question": "Mientras más fuerte el liderazgo, mejor.",
       "effect": {
          "econ": 0,
          "dipl": -5,
@@ -315,7 +315,7 @@ questions = [
       }
    },
    {
-      "question": "Democracy is intrinsically valuable as more than a decision-making process.",
+      "question": "La democracia es intrínsecamente valiosa como algo más que un proceso de toma de decisiones.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -324,7 +324,7 @@ questions = [
       }
    },
    {
-      "question": "Environmental regulations are essential.",
+      "question": "Las regulaciones ambientales son esenciales.",
       "effect": {
          "econ": 5,
          "dipl": 0,
@@ -360,7 +360,7 @@ questions = [
       }
    },
    {
-      "question": "Religion should play a role in government.",
+      "question": "La religión debería desempeñar un papel en el gobierno.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -369,7 +369,7 @@ questions = [
       }
    },
    {
-      "question": "Churches should not be exempt from taxes.",
+      "question": "Las iglesias no deberían estar exentas de impuestos.",
       "effect": {
          "econ": 5,
          "dipl": 0,
@@ -378,7 +378,7 @@ questions = [
       }
    },
    {
-      "question": "Climate change is either not real or not man-made.",
+      "question": "El cambio climático no es real ni artificial.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -387,7 +387,7 @@ questions = [
       }
    },
    {
-      "question": "It is important that we work as a united world to combat climate change.",
+      "question": "Es importante que trabajemos como un mundo unido para combatir el cambio climático.",
       "effect": {
          "econ": 0,
          "dipl": 10,
@@ -396,7 +396,7 @@ questions = [
       }
    },
    {
-      "question": "Society was better many years ago than it is now.",
+      "question": "Muchos años atras la sociedad estaba mejor de lo que está ahora.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -405,7 +405,7 @@ questions = [
       }
    },
    {
-      "question": "It is important that we stay connected to our past.",
+      "question": "Es importante que permanezcamos conectados a nuestro pasado.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -414,7 +414,7 @@ questions = [
       }
    },
    {
-      "question": "It is important that we think in the long term, beyond our lifespans.",
+      "question": "Es importante que pensemos a largo plazo, más allá de nuestra esperanza de vida.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -423,7 +423,7 @@ questions = [
       }
    },
    {
-      "question": "Reason is more important than maintaining our culture.",
+      "question": "La razón es más importante que mantener nuestra cultura.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -432,7 +432,7 @@ questions = [
       }
    },
    {
-      "question": "Drug use should be legalized or decriminalized.",
+      "question": "El uso de drogas debería ser legalizado o descriminalizado.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -441,7 +441,7 @@ questions = [
       }
    },
    {
-      "question": "Same-sex marriage should be legal.",
+      "question": "El matrimonio homosexual debería ser legal.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -450,7 +450,7 @@ questions = [
       }
    },
    {
-      "question": "Sex outside marriage is immoral.",
+      "question": "El sexo fuera del matrimonio es inmoral.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -459,7 +459,7 @@ questions = [
       }
    },
    {
-      "question": "Abortion should be prohibited.",
+      "question": "El aborto debería estar prohibido.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -468,7 +468,7 @@ questions = [
       }
    },
    {
-      "question": "Gun ownership should be prohibited for those without a valid reason.",
+      "question": "La tenencia de armas debería estar prohibida para todos aquellos que no tengan una razón valida.",
       "effect": {
          "econ": 0,
          "dipl": 10,
@@ -477,7 +477,7 @@ questions = [
       }
    },
    {
-      "question": "I support single-payer, universal healthcare.",
+      "question": "Yo apoyo un sistema universal de salud, pagado por el Estado.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -486,7 +486,7 @@ questions = [
       }
    },
    {
-      "question": "I support the European Union.",
+      "question": "Yo apoyo a la Unión Europea.",
       "effect": {
          "econ": -5,
          "dipl": 10,
@@ -495,7 +495,7 @@ questions = [
       }
    },
    {
-      "question": "Communism isn't as bad as people say it is.",
+      "question": "El comunismo no es tan malo como la gente dice.",
       "effect": {
          "econ": 10,
          "dipl": 0,
@@ -504,7 +504,7 @@ questions = [
       }
    },
    {
-      "question": "Fascism isn't as bad as people say it is.",
+      "question": "El fascismo no es tan malo como la gente dice.",
       "effect": {
          "econ": -5,
          "dipl": -10,
@@ -513,7 +513,7 @@ questions = [
       }
    },
    {
-      "question": "Capitalism isn't as bad as people say it is.",
+      "question": "El capitalismo no es tan malo como la gente dice.",
       "effect": {
          "econ": -10,
          "dipl": 0,
@@ -522,7 +522,7 @@ questions = [
       }
    },
    {
-      "question": "All people, cultures, worldviews, genders, sexualities, and economic classes should be treated equally.",
+      "question": "Todas las personas, culturas, visiones, generos, sexualidades, y clases económicas deberían ser tratadas de igual forma.",
       "effect": {
          "econ": 10,
          "dipl": 10,
@@ -531,7 +531,7 @@ questions = [
       }
    },
    {
-      "question": "It is important that we further our ethnic, cultural, or economic group's goals above all others.",
+      "question": "Es importante que fomentemos nuestros objetivos étnicos, culturales o económicos por encima de todos los demás.",
       "effect": {
          "econ": -10,
          "dipl": -10,
