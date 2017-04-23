@@ -333,7 +333,7 @@ questions = [
       }
    },
    {
-      "question": "A better world will come from automation, science, and technology.",
+      "question": "Un mundo mejor vendrá de la automatización, la ciencia y la tecnología.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -342,7 +342,7 @@ questions = [
       }
    },
    {
-      "question": "Children should be educated in religious or traditional values.",
+      "question": "Los niños deberían ser educados en valores religiosos o tradicionales.",
       "effect": {
          "econ": 0,
          "dipl": 0,
@@ -351,7 +351,7 @@ questions = [
       }
    },
    {
-      "question": "Irrational traditions should be abolished.",
+      "question": "Deberían abolirse las tradiciones irracionales.",
       "effect": {
          "econ": 0,
          "dipl": 0,
